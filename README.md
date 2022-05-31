@@ -1,9 +1,9 @@
 # SA-FACE_RECOGNITION
 ## Algorithm
-1. import 
-2.
-3.
-4.
+1. import all the necessary libraries
+2. Train with the image dataset
+3. Predict with the test image
+4. Display data on the image
 
 ## Program:
 ```python
