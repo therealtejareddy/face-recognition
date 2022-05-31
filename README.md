@@ -1,6 +1,6 @@
 # SA-FACE_RECOGNITION
 ## Algorithm
-1.
+1. import 
 2.
 3.
 4.
@@ -70,11 +70,6 @@ while True:
 ```
 
 ## OUTPUT:
-```
-/*
-1. CODE :
-![SKILL ASSESSMENT OUTPUT](XXX.png)
+![SKILL ASSESSMENT OUTPUT](output.PNG)
 
-*/
-```
 ![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)[Youtube video](https://youtu.be/XgnIRLU_gjA)
